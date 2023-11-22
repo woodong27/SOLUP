@@ -1,10 +1,12 @@
+<div align="left>
+
 # 🏫 SOLUP
 
 <br/>
 
-<div align="center">
-  <h3>돈 관리에 어려움을 겪는 소상공인들을 위한 손익 관리 솔루션 서비스</h3>
-</div>
+<h3>돈 관리에 어려움을 겪는 소상공인들을 위한 손익 관리 솔루션 서비스</h3>
+
+![image](https://github.com/woodong27/shinhan-solup/assets/122415763/282de91c-8961-4f4e-9843-b9a93eaf33eb)
 
 ## ⌨️ 기간
 
@@ -150,6 +152,8 @@
 ## 👥 팀원 소개
 
 <a name="developers"></a>
+
+</div>
 
 | **Name** |   박진희   |   노창현   | 정현우 | 최동우 |
 | :------: | :--------: | :--------: | :----: | :----: |
