@@ -80,7 +80,8 @@
 
 <div align="right"><a href="#tableContents">목차로 이동</a></div>
 
-![아키텍쳐](framework.png)
+![SOLUP](https://github.com/woodong27/Donggam/assets/122415763/717a4b74-b7b9-4ca5-b5f9-ac76f7ec85af)
+
 <br/>
 
 <!------- 기술 스택 시작 -------->
